@@ -1,0 +1,55 @@
+body
+{
+  background-image: url("GrAdIeNt.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.heading {
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+span {
+  font-size: 25px;
+}
+
+#camera, #result {
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px;
+}
+
+#result_gesture_name {
+  color: black;
+}
+
+.gesture_name {
+  font-size:40px;
+}
+
+.emoji {
+  font-size: 48px;
+}
+
+label {
+  font-size: 40px;
+  color: #ff008c;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+  font-family: "Creepster";
+}
+
+#POM-POM
+{
+  color: ghostwhite;
+  font-family: "Dancing Script";
+}
+
+#KEYCHAIN
+{
+  color: ghostwhite;
+  font-family: "Dancing Script";
+}
+
